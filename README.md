@@ -42,10 +42,10 @@ Este repositorio documenta mi progreso en la carrera **Software Developer** de [
 ## 📂 Estructura del Repositorio
 ```
 /apx-school
-│── nivel-0/
-│── nivel-1/
-│── nivel-2/
-│── nivel-3/
+│── nivel0/
+│── nivel1/
+│── nivel2/
+│── nivel3/
 │── proyectos/
 │── README.md
 ```
